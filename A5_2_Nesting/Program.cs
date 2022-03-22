@@ -8,6 +8,7 @@ namespace A5_2_Nesting
         {
             string a = "*";
             string s = " ";
+            
             Console.WriteLine(s);
             for (int complete = 1; complete <=1; complete++)
             {
@@ -73,8 +74,6 @@ namespace A5_2_Nesting
                 }
                 Console.Write(a);
             }
-
-           
         }
     }
 }
@@ -90,5 +89,7 @@ namespace A5_2_Nesting
   *****
    ***
     *
+
+notes
 
 */
